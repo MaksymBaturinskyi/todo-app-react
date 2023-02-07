@@ -1,6 +1,7 @@
 # Todo App
 
 This is a simple Todo application built using ReactJS.
+<h2 align="center"><a  href="https://gabrielmaksimovich.github.io/todo-app-react/">Live Demo</a></h2>
 
 ## Features
  - Add todo items
