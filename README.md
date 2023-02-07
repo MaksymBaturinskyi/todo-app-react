@@ -36,7 +36,7 @@ npm start
 6. Open your browser to http://localhost:3000 to view the app.
 
 ## Technologies
-- React with Typescript   
+- React with TypeScript   
 - CSS library: Bulma
 
 ## Contributing
