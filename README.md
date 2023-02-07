@@ -2,10 +2,6 @@
 
 This is a simple Todo application built using ReactJS.
 
-## Description
-
-The user can add, delete, update and make todos completed. The frontend part uses React REST API with hooks and TypeScript. The design is built by CSS-framework Bulma.
-
 ## Features
  - Add todo items
  - Mark items as complete
@@ -40,8 +36,8 @@ npm start
 6. Open your browser to http://localhost:3000 to view the app.
 
 ## Technologies
-ReactJS
-HTML
-CSS
-Contributing
-If you wish to contribute to the project, please fork the repository and make the necessary changes. Then, create a pull request and it will be reviewed by the maintainer.
+- React with Typescript   
+- CSS library: Bulma
+
+## Contributing
+If you wish to contribute to the project, please fork the repository and make the necessary changes. Then, create a pull request and it will be reviewed by  me.
